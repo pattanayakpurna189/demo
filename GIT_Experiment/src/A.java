@@ -67,8 +67,7 @@ public class A {
 	}
 	
 	System.out.println(ar);
-	System.out.println(ar);
-	System.out.println(ar);
+	
 	for(int j:ar) {
 		System.out.print(j+",");
 	}
