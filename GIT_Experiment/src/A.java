@@ -8,7 +8,7 @@ public class A {
 	System.out.println("Frome A");
 	System.out.println("Frome A");
 	System.out.println("Frome B");
-	System.out.println("Frome A");
+	
 	/*String v = "PURNA";
 	String result = "";
 	
