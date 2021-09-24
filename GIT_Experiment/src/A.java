@@ -6,6 +6,7 @@ public class A {
 		return v;
 	}
 	System.out.println("Frome A");
+	System.out.println("Frome A");
 	System.out.println("Frome B");
 	System.out.println("Frome A");
 	/*String v = "PURNA";
@@ -67,6 +68,7 @@ public class A {
 	}
 	
 	System.out.println(ar);
+	
 	for(int j:ar) {
 		System.out.print(j+",");
 	}
